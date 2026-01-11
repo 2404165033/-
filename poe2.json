@@ -29,7 +29,15 @@
   ],
   [
     "HIGHLIGHT",
-    "高亮显示"  
+    "高亮显示"
+  ],
+  [
+    "Mods",
+    "词缀"
+  ],
+  [
+    "COPY TO CLIPBOARD",
+    "复制到剪贴板"  
   ],
   [
     "Chance Bases",
@@ -42,6 +50,22 @@
   [
     "Default Sounds",
     "默认音效"
+  ],
+  [
+    "Custom Rules",
+    "自定义规则"
+  ],
+  [
+    "Abyssal Eyes",
+    "深淵之眼"
+  ],
+  [
+    "THEMES",
+    "主题"  
+  ],
+  [
+    "THEMES",
+    "主题"  
   ],
   [
     "These settings have no impact on which items are shown or hidden, but change how items are displayed.",
