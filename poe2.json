@@ -8,6 +8,10 @@
     "碑牌"
   ],
   [
+    ". Its item color theme nostalgically goes back all the way to Diablo 2. We'd hate to spoil that by adding many different out-of-theme colors and fonts. This filter stays close to the 'default' label styles. We only add highlight beams in self-explanatory colors: white, yellow, orange, red and purple for top-tier items. Highlighted items are shown on the minimap too.",
+    ". 其物品颜色主题怀旧地回归到了暗黑破坏神 2。我们不愿通过添加许多不同且不符合主题的颜色和字体来破坏这种氛围。这个过滤器紧密地遵循了'默认'标签样式。我们仅在自我解释的颜色中添加高亮光束：白色、黄色、橙色、红色和紫色用于顶级物品。高亮物品也会在小地图上显示。",  
+  ],
+  [
     "TIER",
     "阶级"
   ],
@@ -1509,7 +1513,7 @@
   ],
   [
     "Some itemclasses like 'Jewels' are completely covered through the class-based filtering below and don't need representing through the matrix.",
-    "部分類型如 珠寶 由細項裡面的部位類型中包含在內 所以不會在 Rank 中有選項。（Sab提醒:在NS的分級下依嚴格程度會逐漸隱藏較低 Rank 分級的破裂物品，所以如果你需求的破裂物品並不嚴格要求基底時請記得要來正確調整。）"
+    "部分類型如 珠寶 由細項裡面的部位類型中包含在內 所以不會在 Rank 中有選項。（Sab提醒:在NS的分級下依严格程度會逐漸隱藏較低 Rank 分級的破裂物品，所以如果你需求的破裂物品並不严格要求基底時請記得要來正確調整。）"
   ],
   [
     "Veiled Items",
@@ -1565,7 +1569,7 @@
   ],
   [
     "These rules are enabled in higher strictness. They hide lower rares if they drop in high level zones.",
-    "高嚴格度的情況下會使用這些規則，在高區域等級的圖內掉落低物等裝備將會被隱藏。"
+    "高严格度的情況下會使用這些規則，在高區域等級的圖內掉落低物等裝備將會被隱藏。"
   ],
   [
     "By default the filter will hide all (unidentified) corrupted/mirrored rares without an implicit. This of course excludes 6-links and all kind of other exotic items",
@@ -2701,7 +2705,7 @@
   ],
   [
     "STRICTNESS - how much the filter hides",
-    "嚴格度 - 過濾器隱藏物品的程度"
+    "严格度 - 過濾器隱藏物品的程度"
   ],
   [
     "Soft",
@@ -2717,31 +2721,31 @@
   ],
   [
     "Low strictness. Shows all rares. Good for chaos-recipes. Shows way too much in the endgame.",
-    "稍微嚴格一點，依然顯示所有稀有裝備，但後期還是顯示太多物品。"
+    "稍微严格一點，依然顯示所有稀有裝備，但後期還是顯示太多物品。"
   ],
   [
     "Semi-Strict",
-    "半嚴格"
+    "半严格"
   ],
   [
     "Strict",
-    "嚴格"
+    "严格"
   ],
   [
     "Very Strict",
-    "非常嚴格"
+    "非常严格"
   ],
   [
     "Uber Strict",
-    "極度嚴格"
+    "極度严格"
   ],
   [
     "Uber Plus Strict",
-    "超級嚴格"
+    "超級严格"
   ],
   [
     "Recommended filter-strictness for beginners and league-starters. Hides terrible items. Shows anything potentially useful.",
-    "推薦給新手和賽季起步者的過濾器嚴格度。隱藏垃圾物品。顯示任何可能派上用場的東西。"
+    "推薦給新手和賽季起步者的過濾器严格度。隱藏垃圾物品。顯示任何可能派上用場的東西。"
   ],
   [
     "Styles & Sounds",
@@ -2977,11 +2981,11 @@
   ],
   [
     "Clicking the buttons below will compare how your current filter will look like with different strictnesses or styles. It will not actively change your current filter. You can change the used style or strictness without losing any changes on the Overview tab afterwards.",
-    "點擊下方的按鈕將比較您目前的過濾器在不同嚴格度或風格下的外觀。它不會主動變更您目前的過濾器。您可以在之後的「總覽」分頁上變更使用的風格或嚴格度，而不會遺失任何變更。"
+    "點擊下方的按鈕將比較您目前的過濾器在不同严格度或風格下的外觀。它不會主動變更您目前的過濾器。您可以在之後的「總覽」分頁上變更使用的風格或严格度，而不會遺失任何變更。"
   ],
   [
     "Compare Strictness",
-    "比較嚴格度"
+    "比較严格度"
   ],
   [
     "Compare Styles",
@@ -3153,7 +3157,7 @@
   ],
   [
     "Get all strictnesses",
-    "取得所有嚴格度過綠器"
+    "取得所有严格度過綠器"
   ],
   [
     "as ZIP",
@@ -3277,11 +3281,11 @@
   ],
   [
     "Reduced highlight on Uber Strict",
-    "在Uber Strict極度嚴格下減少篩選顯示"
+    "在Uber Strict極度严格下減少篩選顯示"
   ],
   [
     "Hidden starting with Uber Plus Strict",
-    "從Uber Plus Strict超級嚴格開始隱藏"
+    "從Uber Plus Strict超級严格開始隱藏"
   ],
   [
     "Currency High Tier 3",
@@ -3317,11 +3321,11 @@
   ],
   [
     "Reduced highlight on Very Strict",
-    "在Very Strict非常嚴格下減少篩選顯示"
+    "在Very Strict非常严格下減少篩選顯示"
   ],
   [
     "Hidden starting with Uber Strict",
-    "從Uber Strict極度嚴格開始隱藏"
+    "從Uber Strict極度严格開始隱藏"
   ],
   [
     "Currency Mid Tier 1",
@@ -3333,11 +3337,11 @@
   ],
   [
     "Reduced highlight on Strict",
-    "在Strict嚴格下減少篩選顯示"
+    "在Strict严格下減少篩選顯示"
   ],
   [
     "Hidden starting with Very Strict",
-    "從Very Strict非常嚴格開始隱藏"
+    "從Very Strict非常严格開始隱藏"
   ],
   [
     "Currency Mid Tier 2",
@@ -3353,7 +3357,7 @@
   ],
   [
     "Disabled starting with Uber Strict",
-    "從Uber Strict極度嚴格開始停用"
+    "從Uber Strict極度严格開始停用"
   ],
   [
     "Currency during leveling 1",
@@ -3365,7 +3369,7 @@
   ],
   [
     "Disabled starting with Very Strict",
-    "從Very Strict非常嚴格開始停用"
+    "從Very Strict非常严格開始停用"
   ],
   [
     "Currency during leveling 3",
@@ -3509,7 +3513,7 @@
   ],
   [
     "Disabled starting with Uber Plus Strict",
-    "從Uber Plus Strict超級嚴格開始停用"
+    "從Uber Plus Strict超級严格開始停用"
   ],
   [
     "Memory Stranded gear identifies with better modtiers and the strands can be consumed to empower crating outcomes!",
@@ -3709,7 +3713,7 @@
   ],
   [
     "Note: random non-quality skillgems are hidden on higher strictnesses, since they can be purachased from an NPC.",
-    "注意：隨機的非品質技能寶石會在更高的嚴格度下隱藏，因為它們可以從 NPC 購買。"
+    "注意：隨機的非品質技能寶石會在更高的严格度下隱藏，因為它們可以從 NPC 購買。"
   ],
   [
     "Currently expensive gems are highlighted by the filter. Additionally the filter will highlight gems with special properties, such as higher levels, quality etc.",
@@ -4009,7 +4013,7 @@
   ],
   [
     "Disabled starting with Strict",
-    "從Strict嚴格開始停用"
+    "從Strict严格開始停用"
   ],
   [
     "Endgame Tier 4 Rares",
@@ -4021,7 +4025,7 @@
   ],
   [
     "Hides items starting with Semi-Strict",
-    "從Semi-Strict半嚴格開始隱藏物品"
+    "從Semi-Strict半严格開始隱藏物品"
   ],
   [
     "Not active before that.",
@@ -4221,7 +4225,7 @@
   ],
   [
     "Hidden starting with Strict",
-    "從Strict嚴格開始隱藏"
+    "從Strict严格開始隱藏"
   ],
   [
     "Magic Jewels",
@@ -4477,7 +4481,7 @@
   ],
   [
     "Disabled starting with Semi-Strict",
-    "從Semi-Strict半嚴格開始停用"
+    "從Semi-Strict半严格開始停用"
   ],
   [
     "All top value items have the same white background and drop-sound. They also come with a red beam and a huge red star on the minimap. These items include top tier currencies, valuable uniques, great divination cards, reliquary keys and everything else that is worth a LOT",
@@ -4585,7 +4589,7 @@
   ],
   [
     "Due to all the special bases (such as atlas, stygian, shaper, elder bases) being added to the game, these bases have become much less popular and a lot of them are hidden on higher filter strictnesses.",
-    "由於所有特殊底材都已添加到遊戲中，因此這些底材已變得不那麼受歡迎，並且其中許多底材在更高的過濾器嚴格度下被隱藏。"
+    "由於所有特殊底材都已添加到遊戲中，因此這些底材已變得不那麼受歡迎，並且其中許多底材在更高的過濾器严格度下被隱藏。"
   ],
   [
     "Still, especially in SSF and early leagues, these bases can be fairly valuable.",
@@ -5161,7 +5165,7 @@
   ],
   [
     "Hidden starting with Semi-Strict",
-    "從半嚴格開始隱藏"
+    "從半严格開始隱藏"
   ],
   [
     "Currency Basic Tier 2",
@@ -5169,7 +5173,7 @@
   ],
   [
     "Lower currencies dropping in bulk receive a different highlight and are shown differently depending on the strictness.",
-    "大量掉落的較低等級通貨會收到不同的篩選顯示，並且根據嚴格程度以不同的方式顯示。"
+    "大量掉落的較低等級通貨會收到不同的篩選顯示，並且根據严格程度以不同的方式顯示。"
   ],
   [
     "Stacked Scrolls",
@@ -5205,7 +5209,7 @@
   ],
   [
     "Scrolls dropping in bulk receive a different highlight and are shown differently depending on the strictness.",
-    "大量掉落的捲軸會收到不同的篩選顯示，並且根據嚴格程度以不同的方式顯示。"
+    "大量掉落的捲軸會收到不同的篩選顯示，並且根據严格程度以不同的方式顯示。"
   ],
   [
     "Other Endgame Tierlists",
@@ -5269,7 +5273,7 @@
   ],
   [
     "Reduced highlight on Uber Plus Strict",
-    "在Uber Plus Strict超級嚴格下減少篩選顯示"
+    "在Uber Plus Strict超級严格下減少篩選顯示"
   ],
   [
     "Blight Oils T3",
